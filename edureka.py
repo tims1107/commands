@@ -6,3 +6,5 @@ c = 30
 print(a+b)
 
 print(c+b+a)
+
+print()
